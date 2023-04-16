@@ -7,3 +7,6 @@
 <p  align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=duzos.duzos" alt="visitor badge"/>       
 </p>
+
+## Discord
+https://discord.gg/ZgssqpUMHS
