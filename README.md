@@ -1,12 +1,7 @@
-# Duzo
-## Stats
-![Duzo's Github stats](https://github-readme-stats.vercel.app/api?username=Duzos&theme=prussian&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duzos&theme=prussian&show_icons=true&count_private=true)
-
-<p  align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=duzos.duzos" alt="visitor badge"/>       
-</p>
+# Duzo <img src="https://visitor-badge.laobi.icu/badge?page_id=duzos.duzos" alt="visitor badge"/>
+## Stats 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=duzos&show_icons=true&theme=github_dark&custom_title=Stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duzos&show_icons=true&layout=compact&theme=github_dark"/> |
+| ------------- | ------------- |
 
 ## Discord
 https://discord.gg/ZgssqpUMHS
